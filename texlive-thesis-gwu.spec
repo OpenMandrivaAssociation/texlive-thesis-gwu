@@ -1,6 +1,6 @@
 Name:		texlive-thesis-gwu
 Version:	54287
-Release:	1
+Release:	2
 Summary:	Thesis class for George Washington University School of Engineering and Applied Science
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thesis-gwu
