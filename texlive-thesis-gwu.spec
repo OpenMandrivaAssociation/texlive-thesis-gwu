@@ -3,7 +3,7 @@ Version:	54287
 Release:	2
 Summary:	Thesis class for George Washington University School of Engineering and Applied Science
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thesis-gwu
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thesis-gwu
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thesis-gwu.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thesis-gwu.doc.r%{version}.tar.xz
